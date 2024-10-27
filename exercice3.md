@@ -33,6 +33,7 @@
  echo "- \"Même des tildes ~ ?\""\
  echo "- \"Evidemment !\""
 6.  
+ - fg %1
 7. 
  Couche 2 (Liaison de données) : 
  - Switches : Le switch connecte des appareils au sein d’un réseau et envoie les données précisément là où elles doivent aller.
